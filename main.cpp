@@ -10,6 +10,7 @@ int main() {
       z=(a*x^2)-(b*y);
    } else {
       z=(a*x)-(b*y^2);
-   }   
+   }  
+   cout << z << endl;
    return 0;
 }
